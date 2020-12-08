@@ -1,4 +1,4 @@
-package main
+package router
 
 import (
 	"golang-gin-gorm-2fa/controller"
